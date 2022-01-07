@@ -1,3 +1,3 @@
 (function() {
-    console.log('ok');
+    console.warn('warning!');
 }())
