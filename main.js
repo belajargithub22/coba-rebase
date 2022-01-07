@@ -1,3 +1,5 @@
 (function() {
-    console.warn('warning!');
+    setTimeout(() => {
+        console.error('ok');
+    }, 1000);
 }())
